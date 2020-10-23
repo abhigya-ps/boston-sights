@@ -6,7 +6,7 @@ Guests can view all users and photos posted.
 and upload images, whether it be a profile picture or an image of a spot users want to share.
 * Built the backend in Node.js using the Express framework. Created a REST API that connects with the React app which takes requests and forwards 
 to the database. Responds back to the frontend with data sent from the database. 
-* Initialized database using MongoDB. Created 2 main collections - one for user information and another for location data. Connected the two 
+* Initialized a database using MongoDB. Created 2 main collections - one for user information and another for location data. Connected the two 
 collections by populating location data to their users. 
 
 ### External Tech
@@ -16,3 +16,5 @@ collections by populating location data to their users.
 * Created a web app on Google Firebase to host the React.js portion of the project.
 * Hosted the Express.js app on Heroku and passed the domain name to the React routes on Firebase to establish a connection 
 between the frontend and the backend.
+
+![bostonsights_image](https://github.com/abhigya-ps/boston-sights/blob/main/images/bostonsights_github.JPG)
