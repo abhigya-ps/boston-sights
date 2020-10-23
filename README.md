@@ -11,7 +11,7 @@ collections by populating location data to their users.
 
 ### External Tech
 
-* Established a connection to Google Maps Geocoding API to locate user's location of choice on a standard Google map.
+* Established a connection to Google Maps Geocoding API to point out the user's location of choice on a standard Google map.
 * Hosted images uploaded by user's (profile pictures and location photos) as static files in S3 Buckets provided by AWS.
 * Created a web app on Firebase to host the React.js portion of the project.
 * Hosted the Express.js app on Heroku and passed the domain name to the React routes on Firebase to establish a connection 
