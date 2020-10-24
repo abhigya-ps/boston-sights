@@ -16,7 +16,7 @@ collections by populating location data to their users.
 * Created a web app on Google Firebase to host the React.js portion of the project.
 * Hosted the Express.js app on Heroku and passed the domain name to the React routes on Firebase to establish a connection 
 between the frontend and the backend.
-
+<br>
 <p align="center">
   <img src="https://github.com/abhigya-ps/boston-sights/blob/main/images/bostonsights_github.JPG" alt="demo_location" width="60%" align="center">
 </p>
