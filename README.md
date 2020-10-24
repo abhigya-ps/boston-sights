@@ -18,5 +18,5 @@ collections by populating location data to their users.
 between the frontend and the backend.
 <br>
 <p align="center">
-  <img src="https://github.com/abhigya-ps/boston-sights/blob/main/images/bostonsights_github.JPG" alt="demo_location" width="60%" align="center">
+  <img src="https://github.com/abhigya-ps/boston-sights/blob/main/images/bostonsights_github.JPG" alt="demo_location" width="80%" align="center">
 </p>
